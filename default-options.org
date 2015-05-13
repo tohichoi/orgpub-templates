@@ -1,0 +1,9 @@
+#+STARTUP:    align nodlcheck hidestars oddeven lognotestate
+#+SEQ_TODO:   TODO(t) INPROGRESS(i) | DONE(d) CANCELED(c@)
+#+TAGS:       Report(r) 
+#+LANGUAGE:   kr
+#+PRIORITIES: A B C
+#+OPTIONS: H:1 toc:nil num:nil \n:nil ::t |:t ^:{} -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc timestamp:nil creator:t
+#+AUTHOR:     Mike
+#+HTML_HEAD: <link href="file:///home/mike/Documents/css/my-style-v2.css" rel="stylesheet" type="text/css" media="all" />
+#+HTML_HEAD: <link href="file:///home/mike/Documents/css/my-style-v2-print.css" rel="stylesheet" type="text/css" media="print" />

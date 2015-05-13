@@ -1,0 +1,4 @@
+#+LINK_HOME: index.html     ; the ``home'' link of an exported page
+#+LINK_UP:   index.html     ; the ``up'' link of an exported pag
+#+HTML_HEAD: <link href="css/my-style-v2.css" rel="stylesheet" type="text/css" /> 
+#+INCLUDE: org-templates/default-options.org

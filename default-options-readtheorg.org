@@ -1,0 +1,10 @@
+#+STARTUP:    align nodlcheck hidestars oddeven lognotestate
+#+SEQ_TODO:   TODO(t) INPROGRESS(i) | DONE(d) CANCELED(c@)
+#+TAGS:       Report(r) 
+#+LANGUAGE:   kr
+#+PRIORITIES: A B C
+#+OPTIONS: H:1 toc:nil num:nil \n:nil ::t |:t ^:{} -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc timestamp:nil creator:t
+#+AUTHOR:     Mike
+#+INCLUDE: ~/Documents/css/org-html-themes/setup/theme-readtheorg-local.setup
+
+

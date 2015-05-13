@@ -1,0 +1,51 @@
+#+AUTHOR: Mike
+#+INCLUDE: ~/Documents/orgpub-templates/default-options-readtheorg.org
+#+OPTIONS: h:3 toc:t
+#+DATE: 2015.02.03.
+
+* Title1
+** Title2
+- minus list1
+- minus list2
+
+#+BEGIN_SRC emacs-lisp
+(message "test")
+#+END_SRC
+
+#+BEGIN_SRC C
+void printf(char *fmt, ...);
+#+END_SRC
+
+#+BEGIN_SRC python
+print '''hello!'''
+#+END_SRC
+
+*** Title3
++ plus list1
++ plus list2
+
+#+BEGIN_EXAMPLE
+This is example
+#+END_EXAMPLE
+
+**** Title4
+1. number list1
+2. number list2
+
+#+BEGIN_QUOTE
+This is quote
+#+END_QUOTE
+
+***** Title5
+1) number list1
+2) number list2
+
+#+BEGIN_VERSE
+This is verse
+#+END_VERSE
+
+** Title2
+
+#+BEGIN_IMPORTANT
+This is important
+#+END_IMPORTANT
